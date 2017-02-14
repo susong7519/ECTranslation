@@ -2,7 +2,7 @@
 out/
 
 # Intellij project files
-.idea/
+# .idea/
 
 # Mac system files
 .DS_Store
